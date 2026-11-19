@@ -59,15 +59,11 @@ I was responsible for the technical development and experiments, with scientific
 
 I am grateful for their guidance and for the opportunity to work at the intersection of astrophysics, signal processing, and machine learning.
 
-## Technologies and skills
-
-`Python` · `Deep Learning` · `Computer Vision` · `Signal Processing` · `Time–Frequency Analysis` · `Scientific Data Processing` · `Model Evaluation`
-
 ## Code and data availability
 
 **This is a public project overview, not a source-code release.**
 
-The implementation, trained models, annotations, and research datasets are **not publicly available**. They are kept private to respect the research context and the collaborators' work. This repository is intended to present the project's objectives, my contributions, and the principal results without disclosing the implementation.
+The implementation, trained models, annotations are **not yet publicly available**. This repository is intended to present the project's objectives, my contributions, and the principal results without disclosing the implementation.
 
 ---
 
